@@ -2,25 +2,21 @@
 	"colors": [{
 			"color": "black",
 			"category": "hue",
-			"type": "primary",
 			"code": "#000"
 		},
 		{
 			"color": "white",
 			"category": "value",
-			"type": "primary",
 			"code": "#FFF"
 		},
 		{
 			"color": "red",
 			"category": "hue",
-			"type": "primary",
 			"code": "#FF0"
 		},
 		{
 			"color": "blue",
 			"category": "hue",
-			"type": "primary",
 			"code": "#00F"
 
 		}
